@@ -6,7 +6,7 @@ A creative studio for organizing scripts, creating visual assets, adding narrati
 
 [Español](#español)
 
-**[Open Vezlume AI](https://signal-video-studio.sensei70.chatgpt.site/)** · [Explore the studio](https://signal-video-studio.sensei70.chatgpt.site/studio) · [Terms and privacy](https://signal-video-studio.sensei70.chatgpt.site/legal)
+**[Open Vezlume AI](https://vezlume.com/)** · [Explore the studio](https://vezlume.com/studio) · [Terms and privacy](https://vezlume.com/legal)
 
 ## Current status
 
@@ -48,7 +48,7 @@ Vezlume reúne guiones, recursos, escenas y narración en un estudio para creado
 
 La producción sigue en beta privada y las compras públicas están cerradas durante las pruebas. Los planes anteriores son la oferta prevista en USD. Los créditos se consumen por recurso; no equivalen a un número garantizado de vídeos terminados.
 
-**[Abrir Vezlume AI](https://signal-video-studio.sensei70.chatgpt.site/)**. La presentación pública ya está publicada; la producción y los cobros siguen pendientes de las pruebas finales.
+**[Abrir Vezlume AI](https://vezlume.com/)**. La presentación pública ya está publicada; la producción y los cobros siguen pendientes de las pruebas finales.
 
 ## About this repository
 
